@@ -1,4 +1,4 @@
-# discovery-bot
+# destiny-bot
 
 Prerequisites:
 
